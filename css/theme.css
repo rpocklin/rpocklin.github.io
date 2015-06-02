@@ -75,7 +75,6 @@ body > nav {
   text-align: center;
   padding: 10px 0;
   font-size: 0;
-  margin-bottom: 40px;
 }
 body > nav ul {
   margin: 0;
@@ -211,7 +210,6 @@ body > footer {
   background: #232323;
   color: #fff;
   text-align: center;
-  margin-top: 40px;
   padding: 20px 0;
   font-family: TradeGothic, sans-serif;
 }
